@@ -7,13 +7,8 @@
 
 **EduFlow** is a production-grade, offline-first mobile application engineered with **Flutter**. It facilitates a comprehensive educational ecosystem by connecting instructors and students through a dual-role architecture. The system is built on a robust state management foundation using **Hydrated BLoC**, ensuring data persistence and reliability without requiring an active internet connection.
 
----
 
-## 📸 Application Preview
 
-| 👨‍🏫 Instructor Dashboard | 📅 Attendance Tracking | 📹 Video Management | 👨‍🎓 Student Portal |
-|:-------------------------:|:----------------------:|:-------------------:|:-------------------:|
-| <img src="Instructor Dashboard.png" width="200" /> | *(Add Screenshot)* | *(Add Screenshot)* | *(Add Screenshot)* |
 
 ---
 
